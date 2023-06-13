@@ -1,0 +1,30 @@
+h1{
+    text-align: left;
+    background-color: black;
+    color: white;
+    font-family: "Comic Sans MS", "Comic Sans";
+    padding-left: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+span{
+    color: aqua;
+}
+
+h2{
+    background-color: purple;
+    text-align: center;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+h3{
+    background-color: cyan;
+    text-align: right;
+    text-decoration: underline;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
